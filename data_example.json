@@ -1,32 +1,32 @@
 [
     {
-        "empresa": "PA",
-        "pago": 151685584,
-        "faturado": 243836822
-    },
-    {
-        "empresa": "MA",
-        "pago": 64003175,
-        "faturado": 97334681
-    },
-    {
-        "empresa": "PI",
-        "pago": 54233156,
-        "faturado": 91904661
+        "empresa": "AL",
+        "tipo": "pago",
+        "valor": "45271409"
     },
     {
         "empresa": "AL",
-        "pago": 45271409,
-        "faturado": 72733271
+        "tipo": "faturado",
+        "valor": "72733271"
     },
     {
         "empresa": "AP",
-        "pago": 116911624,
-        "faturado": 128826989
+        "tipo": "pago",
+        "valor": "116911624"
     },
     {
-        "empresa": "RS",
-        "pago": 61895912,
-        "faturado": 102052547
+        "empresa": "AP",
+        "tipo": "faturado",
+        "valor": "128826990"
+    },
+    {
+        "empresa": "MA",
+        "tipo": "pago",
+        "valor": "64003175"
+    },
+    {
+        "empresa": "MA",
+        "tipo": "faturado",
+        "valor": "97334681"
     }
 ]
