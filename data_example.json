@@ -28,5 +28,35 @@
         "empresa": "MA",
         "tipo": "faturado",
         "valor": "97334681"
+    },
+    {
+        "empresa": "PA",
+        "tipo": "pago",
+        "valor": "151685584"
+    },
+    {
+        "empresa": "PA",
+        "tipo": "faturado",
+        "valor": "243836822"
+    },
+    {
+        "empresa": "PI",
+        "tipo": "pago",
+        "valor": "54233156"
+    },
+    {
+        "empresa": "PI",
+        "tipo": "faturado",
+        "valor": "91904661"
+    },
+    {
+        "empresa": "RS",
+        "tipo": "pago",
+        "valor": "61895912"
+    },
+    {
+        "empresa": "RS",
+        "tipo": "faturado",
+        "valor": "102052547"
     }
 ]
