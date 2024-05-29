@@ -2,61 +2,61 @@
     {
         "empresa": "AL",
         "tipo": "pago",
-        "valor": "45271409"
+        "valor": 45271409
     },
     {
         "empresa": "AL",
         "tipo": "faturado",
-        "valor": "72733271"
+        "valor": 72733271
     },
     {
         "empresa": "AP",
         "tipo": "pago",
-        "valor": "116911624"
+        "valor": 116911624
     },
     {
         "empresa": "AP",
         "tipo": "faturado",
-        "valor": "128826990"
+        "valor": 128826990
     },
     {
         "empresa": "MA",
         "tipo": "pago",
-        "valor": "64003175"
+        "valor": 64003175
     },
     {
         "empresa": "MA",
         "tipo": "faturado",
-        "valor": "97334681"
+        "valor": 97334681
     },
     {
         "empresa": "PA",
         "tipo": "pago",
-        "valor": "151685584"
+        "valor": 151685584
     },
     {
         "empresa": "PA",
         "tipo": "faturado",
-        "valor": "243836822"
+        "valor": 243836822
     },
     {
         "empresa": "PI",
         "tipo": "pago",
-        "valor": "54233156"
+        "valor": 54233156
     },
     {
         "empresa": "PI",
         "tipo": "faturado",
-        "valor": "91904661"
+        "valor": 91904661
     },
     {
         "empresa": "RS",
         "tipo": "pago",
-        "valor": "61895912"
+        "valor": 61895912
     },
     {
         "empresa": "RS",
         "tipo": "faturado",
-        "valor": "102052547"
+        "valor": 102052547
     }
 ]
