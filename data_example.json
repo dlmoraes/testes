@@ -1,0 +1,32 @@
+[
+    {
+        "empresa": "PA",
+        "pago": "151685584",
+        "faturado ": "243836821.9"
+    },
+    {
+        "empresa": "MA",
+        "pago": "64003175",
+        "faturado ": "97334681.14"
+    },
+    {
+        "empresa": "PI",
+        "pago": "54233156",
+        "faturado ": "91904660.87"
+    },
+    {
+        "empresa": "AL",
+        "pago": "45271409",
+        "faturado ": "72733270.98"
+    },
+    {
+        "empresa": "AP",
+        "pago": "116911624",
+        "faturado ": "128826989.5"
+    },
+    {
+        "empresa": "RS",
+        "pago": "61895912",
+        "faturado ": "102052547.4"
+    }
+]
